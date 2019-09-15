@@ -1,0 +1,3 @@
+El numero Binarioi : 6598Es igual a Decimal: 1100111000110
+El numero Decimal : 2545 Es igual a el Hexadecimal: 9F1
+El numero Binarioi : 258 Es igual a Decimal: 100000010
